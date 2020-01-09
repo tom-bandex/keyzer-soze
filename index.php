@@ -1,5 +1,5 @@
 <?php
-require('../vendor/autoload.php');
+
 if (isset($_POST['sub']))
 {
     $city = $_POST['city'];
